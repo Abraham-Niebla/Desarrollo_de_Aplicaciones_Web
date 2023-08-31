@@ -1,0 +1,29 @@
+Desarrollo_de_Aplicaciones_Web\Metas\Meta 1.2 - Programas en Javascript
+Desarrollo_de_Aplicaciones_Web\Metas\Meta 1.4 - Filtrado, Mapeado, Funciones de Orden Superior, y Promises\FuncionesSuperiores
+Desarrollo_de_Aplicaciones_Web\Metas\Meta 1.4 - Filtrado, Mapeado, Funciones de Orden Superior, y Promises\Filtrado
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
