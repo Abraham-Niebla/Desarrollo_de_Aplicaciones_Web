@@ -1,16 +1,21 @@
 #FRONTEND
 /Metas/Interfaz Frontend
+
 /Metas/Meta 1.2 - Programas en Javascript
+
 /Metas/Meta 1.4 - Filtrado, Mapeado, Funciones de Orden Superior, y Promises/FuncionesSuperiores
 /Metas/Meta 1.4 - Filtrado, Mapeado, Funciones de Orden Superior, y Promises/Filtrado
 /Servidores HTTP/
 
 #BACKEND
+/Metas/Meta 2.2 - Implementar un servicio web REST/node_modules/
 /Metas/Meta 2.2 - Implementar un servicio web REST/busquedaEnNube/node_modules
 /Metas/Meta 2.2 - Implementar un servicio web REST/busquedaEnNube/package-lock.json
 /Metas/Meta 2.2 - Implementar un servicio web REST/busquedaEnNube/package.json
 /Metas/Meta 2.2 - Implementar un servicio web REST/busquedaEnNube/private.key
 /Metas/Meta 2.2 - Implementar un servicio web REST/busquedaEnNube/certificate.crt
+
+/Metas/Meta 2.3 - Persistencia
 
 
 ### Windows ###

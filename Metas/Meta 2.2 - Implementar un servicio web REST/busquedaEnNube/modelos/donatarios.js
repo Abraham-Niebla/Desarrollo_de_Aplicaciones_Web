@@ -2,13 +2,13 @@ const donatarios = [
     {
         rfc: 1,
         nombre: "Abraham Niebla",
-        proyectoAsociado: "Proyectito",
+        proyectosAsociados: ["Proyectito"],
         imagen: "https://random.imagecdn.app/100/100",
     },
     {
         rfc: 2,
         nombre: "Erika Lian",
-        proyectoAsociado: "Proyectote",
+        proyectosAsociados: ["Proyectote"],
         imagen: "https://random.imagecdn.app/100/100",
     },
 ];
